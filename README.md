@@ -11,10 +11,10 @@ Domain: Insurance
 Dataset Description: 
 The insurance dataset holds 7 variables and the description of these variables are given below: 
 
-Attribute	Description
-Kilometers	Kilometers travelled per year 
-1: < 1000 
-2: 1000-15000 
+Attribute	       Description
+Kilometers	     Kilometers travelled per year 
+                1: < 1000 
+                2: 1000-15000 
 3: 15000-20000 
 4: 20000-25000 
 5: > 25000
